@@ -1,4 +1,4 @@
-# License for Bowman Plan
+# License for Bowsystemcy
 
 All rights reserved.  
 Copyright © 2025 Sebastian Bowman.
